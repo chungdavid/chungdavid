@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm David!
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on building my own CSS framework and a few front-end dev projects!
+- 🔭 I’m currently working on a mental health app, my own CSS library, and a few front-end dev projects!
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: hello@davidchung.me
 
