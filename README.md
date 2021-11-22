@@ -1,11 +1,11 @@
 ### 👋 Hi there, I'm David!
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a mental health app, my own CSS library, and a few front-end dev projects!
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me: hello@davidchung.me
 
 <!--
+- 🔭 I’m currently working on a mental health app, my own CSS library, and a few front-end dev projects!
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
